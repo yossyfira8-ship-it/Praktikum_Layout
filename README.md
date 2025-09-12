@@ -1,16 +1,19 @@
-# layout_flutter
+<img width="2048" height="4580" alt="image" src="https://github.com/user-attachments/assets/574b6ea6-eb93-4bd6-9a15-9315462b8275" />
 
-A new Flutter project.
+Membuat aplikasi informasi wisata Gunung Bromo menggunakan Flutter.
 
-## Getting Started
+Struktur Utama:
+- Gambar: Menampilkan gambar bromo.jpeg
+- titleSection:
+- Judul: WISATA GUNUNG BROMO
+- Lokasi: Jawa Timur, Indonesia
+- Rating: ⭐ 41
 
-This project is a starting point for a Flutter application.
+buttonSection:
+Tombol: 📞 CALL | 📍 ROUTE | 📤 SHARE
 
-A few resources to get you started if this is your first Flutter project:
+textSection:
+Deskripsi panjang tentang Gunung Bromo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil:
+![2](https://github.com/user-attachments/assets/d573fc73-e189-4029-9c7e-e0ffc6616256)
