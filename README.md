@@ -1,19 +1,19 @@
-<img width="2048" height="4580" alt="image" src="https://github.com/user-attachments/assets/574b6ea6-eb93-4bd6-9a15-9315462b8275" />
+layout_flutter
+Tugas Praktikum 1 sampai 4
+Praktikum 1 : Membangun Layout diflutter
+- Membuat project Flutter dan menampilkan teks Hasil :
+![1](https://github.com/user-attachments/assets/091b70c6-04e6-43d0-8f02-1f292dd3eef2)
 
-Membuat aplikasi informasi wisata Gunung Bromo menggunakan Flutter.
+- Membuat Title Section menampilkan judul, lokasi, ikon bintang, dan angka 41. Hasil :
+![3](https://github.com/user-attachments/assets/78ca3fd5-37d3-4adf-bad4-cc58b6221589)
 
-Struktur Utama:
-- Gambar: Menampilkan gambar bromo.jpeg
-- titleSection:
-- Judul: WISATA GUNUNG BROMO
-- Lokasi: Jawa Timur, Indonesia
-- Rating: ⭐ 41
+- Praktikum 2 : Implementasi button row
+Membuat tombol CALL, ROUTE, SHARE. Hasil :
+![4](https://github.com/user-attachments/assets/c4830fb8-1cfc-4be8-aebf-de82942aac6c)
 
-buttonSection:
-Tombol: 📞 CALL | 📍 ROUTE | 📤 SHARE
+- Praktikum 3 : Implementasi text section Menambahkan teks deskriptif tentang lokasi. Hasil :
+![5](https://github.com/user-attachments/assets/d2fd116c-7995-43b1-b973-07887811c614)
 
-textSection:
-Deskripsi panjang tentang Gunung Bromo
-
+- Praktikum 4 : Menambahkan Gambar menampilkan gambar di atas layout dan konfigurasi di pubspec.yaml.
 Hasil:
 ![2](https://github.com/user-attachments/assets/d573fc73-e189-4029-9c7e-e0ffc6616256)
